@@ -10,7 +10,7 @@ A complete end-to-end SQL data analytics project on a simulated e-commerce datas
 
 As the Data Analyst on this project, I analyzed UrbanCart's transactional data using **PostgreSQL** and delivered actionable insights to support business strategy, marketing decisions, and product placement.
 
-------hello
+---
 
 ## 🗃️ Dataset
 
